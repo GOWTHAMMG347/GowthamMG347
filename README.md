@@ -45,14 +45,14 @@ I love shipping models that actually move the needle.
 <!-- ====== SKILLS ====== -->
 <h2 align="center">🚀 Skills & Tech</h2>
 
-<!-- Icon wall -->
+<!-- Icon wall (from banner image) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pyTorch,tensorflow,keras,sklearn,opencv,fastapi,flask,git,linux,github,aws,docker,kubernetes,nginx,mysql,sqlite,postgres,redis,graphql,postman,latex,anaconda,vscode" />
+  <img src="https://skillicons.dev/icons?i=numpy,matplotlib,pandas,keras,hadoop,powerbi,aws,sklearn,tensorflow,opencv,ubuntu,mysql,git,docker,kubernetes,linux,matlab,huggingface,pytorch,python" />
 </p>
 
 <!-- Animated skill marquee -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Scikit-learn+%7C+XGBoost+%7C+LightGBM+%7C+TensorFlow+%7C+Keras+%7C+PyTorch+%7C+OpenCV+%7C+Power+BI+%7C+Hadoop+%7C+MATLAB+%7C+Git+%7C+Linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=NumPy+%7C+Matplotlib+%7C+Pandas+%7C+Keras+%7C+Apache+Hadoop+%7C+Power+BI+%7C+AWS+%7C+Scikit-learn+%7C+TensorFlow+%7C+OpenCV+%7C+Ubuntu+%7C+MySQL+%7C+Git+%7C+Docker+%7C+Kubernetes+%7C+Linux+%7C+MATLAB+%7C+Hugging+Face+%7C+PyTorch+%7C+Python" />
 </p>
 
 <!-- ====== EXPERIENCE (collapsible) ====== -->
