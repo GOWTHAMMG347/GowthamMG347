@@ -1,11 +1,11 @@
 <!-- ====== HERO / BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7928CA,100:FF0080&text=Gowtham%20M%20G&section=header&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" style="max-width:900px;" />
+  <img src="https://media.giphy.com/media/3o7TKPdU4QnZtU0bH2/giphy.gif" width="100%" style="max-width:900px;" />
 </p>
 
-<!-- Typing headline -->
+<!-- Typing headline with animated emojis -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=600&color=F7E9A3&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer+%7C+Data+Science+Intern;End-to-End+AI%2FMLOps+%E2%9A%A1%EF%B8%8F+Docker%2C+K8s%2C+AWS;Turning+data+into+deployed+products" width="100%" style="max-width:800px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=600&color=F7E9A3&center=true&vCenter=true&width=750&lines=🚀+Machine+Learning+Engineer+%7C+Data+Science+Intern;⚡+End-to-End+AI%2FMLOps+%E2%9A%A1%EF%B8%8F+Docker%2C+K8s%2C+AWS;💡+Turning+data+into+deployed+products" />
 </h3>
 
 <!-- Quick KPI chips -->
@@ -20,18 +20,21 @@
 <!-- ====== ABOUT ====== -->
 <h2 align="center">💫 About Me</h2>
 <p align="center">
-I build end-to-end AI systems — from <b>feature engineering</b> to <b>K8s/AWS deployments</b>. I love shipping models that actually move the needle.
+I build <b>end-to-end AI/ML systems</b> — from feature engineering to K8s/AWS deployments.  
+I love shipping models that actually move the needle.
 </p>
 <p align="center">
 🎓 MCA @ <b>PES COLLEGE OF ENGINEERING</b> • 🤖 DL: CNN, LSTM, GAN, YOLO, Transformers • 🛠️ MLOps: CI/CD, Jenkins, VPC, YAML • 📊 Viz: Matplotlib, Power BI • ☁️ AWS (EC2, S3, IAM)
 </p>
+
+<!-- Contact badges with hover animation -->
 <p align="center">
   <a href="https://linkedin.com/in/gowtham-m-g-7266aa325"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
   <a href="https://github.com/GOWTHAMMG347"><img height="28" src="https://img.shields.io/badge/GitHub-0d1117?logo=github&logoColor=fff&style=for-the-badge"></a>
   <a href="mailto:mggowtham347@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>
 </p>
 
-<!-- Fancy divider -->
+<!-- Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&reversal=true&text=" width="70%" />
 </p>
@@ -39,26 +42,10 @@ I build end-to-end AI systems — from <b>feature engineering</b> to <b>K8s/AWS 
 <!-- ====== SKILLS ====== -->
 <h2 align="center">🚀 Skills & Tech</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=keras" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=hadoop" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=aws" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=docker" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=linux" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=huggingface" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="70" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=python" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=numpy,matplotlib,pandas,keras,hadoop,powerbi,aws,sklearn,tensorflow,opencv,ubuntu,mysql,git,docker,kubernetes,linux,matlab,huggingface,pytorch,python" height="70" style="margin:6px;" />
+</p>
+<p align="center">
+  <i>Hover over skills for fun animations!</i>
 </p>
 
 <!-- ====== EXPERIENCE ====== -->
@@ -68,8 +55,7 @@ I build end-to-end AI systems — from <b>feature engineering</b> to <b>K8s/AWS 
 ### Machine Learning Engineer Intern — <i>Technocolabs Software Inc.</i> <sub>(Apr–Jun 2025)</sub>
 - Built models (Linear Regression, Random Forest, XGBoost) reaching **85%+** accuracy  
 - Shipped **Flask** apps; deployed with **Docker + Kubernetes on AWS**  
-- Cut deployment time by **≈40%** via container orchestration
-
+- Cut deployment time by **≈40%** via container orchestration  
 ### Data Science Intern — <i>EISystems Technologies</i> <sub>(Jun–Aug 2025)</sub>
 - Transfer-learning **real-time object detection** (≈75% accuracy)  
 - Deployed on **AWS EC2** using **Docker + K8s**  
@@ -80,28 +66,28 @@ I build end-to-end AI systems — from <b>feature engineering</b> to <b>K8s/AWS 
 <!-- ====== PROJECTS ====== -->
 <h2 align="center">📂 Featured Projects</h2>
 <table align="center" width="100%" style="max-width:900px;">
-  <tr>
-    <td width="50%" style="padding:10px;">
-      <h3>Predicting Startup Status</h3>
-      <p>Classifies startups as <b>Acquired, Operating, IPO, Closed</b>.</p>
-      <p><i>Stack:</i> Pandas, Scikit-learn, XGBoost, Flask, Docker, AWS</p>
-      <p>
-        <a href="https://github.com/GOWTHAMMG347/Startup_Prediction"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=fff"></a>
-        <a href="https://vercel347.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-FF0080?style=for-the-badge&logo=vercel&logoColor=fff"></a>
-      </p>
-      <img src="assets/startup_demo.gif" alt="Startup Prediction Demo" width="100%" style="max-width:400px;" />
-    </td>
-    <td width="50%" style="padding:10px;">
-      <h3>Bank Note Authentication (MLOps)</h3>
-      <p>Detects counterfeit banknotes with a clean MLOps pipeline.</p>
-      <p><i>Stack:</i> NumPy, Pandas, Matplotlib, Keras</p>
-      <p>
-        <a href="https://github.com/GOWTHAMMG347/Bank-Note-Authentication"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=fff"></a>
-        <a href="https://bank-note-authentication-4taz.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=fff"></a>
-      </p>
-      <img src="assets/banknote_demo.gif" alt="Bank Note Demo" width="100%" style="max-width:400px;" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" style="padding:10px;">
+<h3>Predicting Startup Status</h3>
+<p>Classifies startups as <b>Acquired, Operating, IPO, Closed</b>.</p>
+<p><i>Stack:</i> Pandas, Scikit-learn, XGBoost, Flask, Docker, AWS</p>
+<p>
+  <a href="https://github.com/GOWTHAMMG347/Startup_Prediction"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=fff"></a>
+  <a href="https://vercel347.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-FF0080?style=for-the-badge&logo=vercel&logoColor=fff"></a>
+</p>
+<img src="assets/startup_demo.gif" alt="Startup Prediction Demo" width="100%" style="max-width:400px; border-radius:15px; box-shadow:0px 0px 15px rgba(0,0,0,0.2);" />
+</td>
+<td width="50%" style="padding:10px;">
+<h3>Bank Note Authentication (MLOps)</h3>
+<p>Detects counterfeit banknotes with a clean MLOps pipeline.</p>
+<p><i>Stack:</i> NumPy, Pandas, Matplotlib, Keras</p>
+<p>
+  <a href="https://github.com/GOWTHAMMG347/Bank-Note-Authentication"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=fff"></a>
+  <a href="https://bank-note-authentication-4taz.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=fff"></a>
+</p>
+<img src="assets/banknote_demo.gif" alt="Bank Note Demo" width="100%" style="max-width:400px; border-radius:15px; box-shadow:0px 0px 15px rgba(0,0,0,0.2);" />
+</td>
+</tr>
 </table>
 
 <!-- ====== CERTIFICATIONS ====== -->
@@ -115,11 +101,11 @@ I build end-to-end AI systems — from <b>feature engineering</b> to <b>K8s/AWS 
 <!-- ====== STATS WALL ====== -->
 <h2 align="center">📊 Stats & Activity</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOWTHAMMG347&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" style="margin:4px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOWTHAMMG347&layout=compact&theme=radical&hide_border=true" height="170" style="margin:4px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GOWTHAMMG347&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" height="170" style="margin:4px; border-radius:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOWTHAMMG347&layout=compact&theme=radical&hide_border=true&hide_title=true" height="170" style="margin:4px; border-radius:10px;" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GOWTHAMMG347&theme=radical&hide_border=true" height="170" style="margin:4px;" />
+  <img src="https://streak-stats.demolab.com?user=GOWTHAMMG347&theme=radical&hide_border=true&hide_title=true" height="170" style="margin:4px; border-radius:10px;" />
 </p>
 
 <p align="center">
