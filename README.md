@@ -45,35 +45,36 @@ I love shipping models that actually move the needle.
 <!-- ====== SKILLS ====== -->
 <h2 align="center">🚀 Skills & Tech</h2>
 
-<!-- Icon wall with uniform size -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="50" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
-  <img src="https://skillicons.dev/icons?i=keras" height="50" />
-  <img src="https://skillicons.dev/icons?i=hadoop" height="50" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="50" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab" height="50" />
-  <img src="https://skillicons.dev/icons?i=huggingface" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-</p>
+<table align="center" cellspacing="15">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=keras" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=hadoop" height="50" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=powerbi" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" height="50" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="50" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=matlab" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=huggingface" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="50" /></td>
+  </tr>
+</table>
 
 <!-- Animated skill marquee -->
 <p align="center">
