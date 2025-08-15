@@ -45,15 +45,41 @@ I love shipping models that actually move the needle.
 <!-- ====== SKILLS ====== -->
 <h2 align="center">🚀 Skills & Tech</h2>
 
-<!-- Icon wall (from banner image) -->
+<!-- Icon wall with uniform size -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,matplotlib,pandas,keras,hadoop,powerbi,aws,sklearn,tensorflow,opencv,ubuntu,mysql,git,docker,kubernetes,linux,matlab,huggingface,pytorch,python" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
+  <img src="https://skillicons.dev/icons?i=keras" height="50" />
+  <img src="https://skillicons.dev/icons?i=hadoop" height="50" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matlab" height="50" />
+  <img src="https://skillicons.dev/icons?i=huggingface" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
 </p>
 
 <!-- Animated skill marquee -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=NumPy+%7C+Matplotlib+%7C+Pandas+%7C+Keras+%7C+Apache+Hadoop+%7C+Power+BI+%7C+AWS+%7C+Scikit-learn+%7C+TensorFlow+%7C+OpenCV+%7C+Ubuntu+%7C+MySQL+%7C+Git+%7C+Docker+%7C+Kubernetes+%7C+Linux+%7C+MATLAB+%7C+Hugging+Face+%7C+PyTorch+%7C+Python" />
 </p>
+
 
 <!-- ====== EXPERIENCE (collapsible) ====== -->
 <details open>
