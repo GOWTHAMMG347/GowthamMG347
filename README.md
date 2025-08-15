@@ -39,7 +39,26 @@ I build end-to-end AI systems — from <b>feature engineering</b> to <b>K8s/AWS 
 <!-- ====== SKILLS ====== -->
 <h2 align="center">🚀 Skills & Tech</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,matplotlib,pandas,keras,hadoop,powerbi,aws,sklearn,tensorflow,opencv,ubuntu,mysql,git,docker,kubernetes,linux,matlab,huggingface,pytorch,python" height="50" style="margin:4px;" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=keras" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=hadoop" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=aws" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=linux" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=huggingface" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="70" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="70" style="margin:6px;" />
 </p>
 
 <!-- ====== EXPERIENCE ====== -->
