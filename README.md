@@ -45,7 +45,8 @@ I love shipping models that actually move the needle.
 <!-- ====== SKILLS ====== -->
 <h2 align="center">🚀 Skills & Tech</h2>
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:15px;">
+<!-- Horizontal skills row -->
+<p align="center">
   <img src="https://skillicons.dev/icons?i=numpy" height="50" />
   <img src="https://skillicons.dev/icons?i=matplotlib" height="50" />
   <img src="https://skillicons.dev/icons?i=pandas" height="50" />
@@ -66,10 +67,7 @@ I love shipping models that actually move the needle.
   <img src="https://skillicons.dev/icons?i=huggingface" height="50" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
   <img src="https://skillicons.dev/icons?i=python" height="50" />
-</div>
-
-
-
+</p>
 <!-- ====== EXPERIENCE (collapsible) ====== -->
 <details open>
 <summary><h2>🏢 Professional Experience</h2></summary>
@@ -114,15 +112,13 @@ I love shipping models that actually move the needle.
   </tr>
 </table>
 
-<!-- ====== CERTS (collapsible) ====== -->
-<details>
-<summary><h2>📜 Certifications</h2></summary>
-
-- **DevOps (JSPIDERS)** — Jun 2023  
-- **Java Full Stack (JSPIDERS)** — Jun 2023  
-- **AWS IAM** — Jun 2023  
-
-</details>
+<!-- ====== CERTS (normal list, no dropdown) ====== -->
+<h2 align="center">📜 Certifications</h2>
+<p align="center">
+- **DevOps (JSPIDERS)** — Jun 2023 <br>
+- **Java Full Stack (JSPIDERS)** — Jun 2023 <br>
+- **AWS IAM** — Jun 2023
+</p>
 
 <!-- ====== STATS WALL ====== -->
 <h2 align="center">📊 Stats & Activity</h2>
