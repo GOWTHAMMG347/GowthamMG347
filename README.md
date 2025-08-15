@@ -1,87 +1,152 @@
-<!-- Profile Banner -->
+<!-- ====== HERO / BANNER ====== -->
+<!-- Wave gradient header (capsule-render) -->
 <p align="center">
-  <img src="linkedin banner.jpeg" alt="Skills Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7928CA,100:FF0080&text=Gowtham%20M%20G&section=header&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 </p>
 
-<!-- Animated Intro Text -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+I'm+Gowtham+M+G!;Machine+Learning+Engineer;Data+Science+Intern;AI+%26+MLOps+Specialist" />
-</h1>
+<!-- Typing headline -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2800&pause=600&color=F7E9A3&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer+%7C+Data+Science+Intern;End-to-End+AI%2FMLOps+%E2%9A%A1%EF%B8%8F+Docker%2C+K8s%2C+AWS;Turning+data+into+deployed+products" />
+</h3>
 
----
-
-# 💫 About Me  
-🚀 **Machine Learning Engineer** & **Data Science Intern** passionate about end-to-end AI solutions — from **model development to deployment**.  
-🎓 MCA @ **PES COLLEGE OF ENGINEERING**  
-💡 Skilled in **ML/DL Models, Cloud Deployment, and AI Solutions**  
-🔥 Experienced in **Docker, Kubernetes, AWS Deployments**  
-📌 Solving **real-world problems with AI/ML**  
-
----
-
-## 🌟 Key Highlights  
-- 📈 **2 Industry Internships** in **Machine Learning** and **Data Science**  
-- 🏆 **Deployed AI Models** with AWS + Docker + Kubernetes  
-- 🤖 **Deep Learning** — CNN, LSTM, GAN, YOLO, Transformers  
-- ⚙️ **MLOps** — CI/CD, Jenkins, VPC, YAML  
-- 📊 **Visualization** — Matplotlib, Power BI  
-- ☁️ **Cloud Platforms** — AWS (EC2, S3, IAM)  
-- 🗄️ **Big Data Tools** — Hadoop, MapReduce  
-
----
-
-## 🌐 Connect With Me  
+<!-- Quick KPI chips -->
 <p align="center">
-  <a href="https://linkedin.com/in/gowtham-m-g-7266aa325">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GOWTHAMMG347">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:mggowtham347@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Internships-2-7B61FF?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Deployments-AWS%20%7C%20Docker%20%7C%20K8s-FF5CAA?style=for-the-badge&logo=amazonaws" />
+  <img src="https://komarev.com/ghpvc/?username=GOWTHAMMG347&style=for-the-badge&color=0AA9FF&label=Profile+views" />
+  <img src="https://img.shields.io/github/followers/GOWTHAMMG347?style=for-the-badge&color=00C9A7&label=Followers" />
+  <img src="https://img.shields.io/github/stars/GOWTHAMMG347?style=for-the-badge&color=F7B500&label=Stars" />
 </p>
 
----
+<!-- ====== ABOUT ====== -->
+<h2 align="center">💫 About Me</h2>
 
-## 🚀 Skills & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,sklearn,aws,docker,kubernetes,git,linux,hadoop,java,mysql" />
+I build end-to-end AI systems — from <b>feature engineering</b> to <b>K8s/AWS deployments</b>. 
+I love shipping models that actually move the needle.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+|+NumPy+|+Pandas+|+Matplotlib+|+Scikit-learn+|+TensorFlow+|+Keras+|+PyTorch+|+OpenCV+|+AWS+|+Docker+|+Kubernetes+|+Power+BI+|+Hadoop+|+MATLAB+|+Linux+|+Git" />
-</p>
-
----
-
-## 📂 Featured Projects  
-1. **[Predicting Startup Status](https://github.com/GOWTHAMMG347/Startup_Prediction)** — *Acquired / Operating / IPO / Closed*  
-   **Tech:** Pandas, NumPy, Scikit-learn, XGBoost, Flask, Docker, AWS  
-   [🌐 Live Demo](https://vercel347.onrender.com/)  
-
-2. **[Bank Note Authentication (MLOps)](https://github.com/GOWTHAMMG347/Bank-Note-Authentication)**  
-   **Tech:** NumPy, Pandas, Matplotlib, Keras  
-   [🌐 Live Demo](https://bank-note-authentication-4taz.onrender.com/)  
-
----
-
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOWTHAMMG347&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOWTHAMMG347&layout=compact&theme=radical" height="180" />
+🎓 MCA @ <b>PES COLLEGE OF ENGINEERING</b> • 🤖 DL: CNN, LSTM, GAN, YOLO, Transformers • 
+🛠️ MLOps: CI/CD, Jenkins, VPC, YAML • 📊 Viz: Matplotlib, Power BI • ☁️ AWS (EC2, S3, IAM)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GOWTHAMMG347&theme=radical" height="180" />
+  <a href="https://linkedin.com/in/gowtham-m-g-7266aa325"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
+  <a href="https://github.com/GOWTHAMMG347"><img height="28" src="https://img.shields.io/badge/GitHub-0d1117?logo=github&logoColor=fff&style=for-the-badge"></a>
+  <a href="mailto:mggowtham347@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>
 </p>
 
----
-
-## 🏆 Achievements  
+<!-- Fancy divider -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GOWTHAMMG347&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&reversal=true&text=" width="70%">
 </p>
 
----
+<!-- ====== SKILLS ====== -->
+<h2 align="center">🚀 Skills & Tech</h2>
+
+<!-- Icon wall -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pyTorch,tensorflow,keras,sklearn,opencv,fastapi,flask,git,linux,github,aws,docker,kubernetes,nginx,mysql,sqlite,postgres,redis,graphql,postman,latex,anaconda,vscode" />
+</p>
+
+<!-- Animated skill marquee -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Scikit-learn+%7C+XGBoost+%7C+LightGBM+%7C+TensorFlow+%7C+Keras+%7C+PyTorch+%7C+OpenCV+%7C+Power+BI+%7C+Hadoop+%7C+MATLAB+%7C+Git+%7C+Linux" />
+</p>
+
+<!-- ====== EXPERIENCE (collapsible) ====== -->
+<details open>
+<summary><h2>🏢 Professional Experience</h2></summary>
+
+### Machine Learning Engineer Intern — <i>Technocolabs Software Inc.</i> <sub>(Apr–Jun 2025)</sub>
+- Built models (Linear Regression, Random Forest, XGBoost) reaching **85%+** accuracy  
+- Shipped **Flask** apps; deployed with **Docker + Kubernetes on AWS**  
+- Cut deployment time by **≈40%** via container orchestration
+
+### Data Science Intern — <i>EISystems Technologies</i> <sub>(Jun–Aug 2025)</sub>
+- Transfer-learning **real-time object detection** (≈75% accuracy)  
+- Deployed on **AWS EC2** using **Docker + K8s**  
+- Built a minimal **Flask UI** for live monitoring
+
+</details>
+
+<!-- ====== PROJECTS: CARD GRID ====== -->
+<h2 align="center">📂 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>Predicting Startup Status</h3>
+      <p>Classifies startups as <b>Acquired, Operating, IPO, Closed</b>.</p>
+      <p><i>Stack:</i> Pandas, Scikit-learn, XGBoost, Flask, Docker, AWS</p>
+      <p>
+        <a href="https://github.com/GOWTHAMMG347/Startup_Prediction"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=fff"></a>
+        <a href="https://vercel347.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-FF0080?style=for-the-badge&logo=vercel&logoColor=fff"></a>
+      </p>
+      <img src="assets/startup_demo.gif" alt="Startup Prediction Demo" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>Bank Note Authentication (MLOps)</h3>
+      <p>Detects counterfeit banknotes with a clean MLOps pipeline.</p>
+      <p><i>Stack:</i> NumPy, Pandas, Matplotlib, Keras</p>
+      <p>
+        <a href="https://github.com/GOWTHAMMG347/Bank-Note-Authentication"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=fff"></a>
+        <a href="https://bank-note-authentication-4taz.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=fff"></a>
+      </p>
+      <img src="assets/banknote_demo.gif" alt="Bank Note Demo" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- ====== CERTS (collapsible) ====== -->
+<details>
+<summary><h2>📜 Certifications</h2></summary>
+
+- **DevOps (JSPIDERS)** — Jun 2023  
+- **Java Full Stack (JSPIDERS)** — Jun 2023  
+- **AWS IAM** — Jun 2023  
+
+</details>
+
+<!-- ====== STATS WALL ====== -->
+<h2 align="center">📊 Stats & Activity</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GOWTHAMMG347&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOWTHAMMG347&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=GOWTHAMMG347&theme=radical&hide_border=true" />
+</p>
+
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOWTHAMMG347&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GOWTHAMMG347&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<!-- ====== CONTRIB SNAKE (dark/light) ====== -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GOWTHAMMG347/GOWTHAMMG347/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/GOWTHAMMG347/GOWTHAMMG347/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- ====== CONTACT STRIP ====== -->
+<p align="center">
+  <a href="mailto:mggowtham347@gmail.com"><img src="https://img.shields.io/badge/Let's%20Collaborate-Gradient?logo=gmail&style=for-the-badge&color=7928CA" /></a>
+  <a href="https://linkedin.com/in/gowtham-m-g-7266aa325"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Gradient?logo=linkedin&style=for-the-badge&color=FF0080" /></a>
+</p>
+
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF0080,100:7928CA&section=footer" />
+</p>
