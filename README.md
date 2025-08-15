@@ -121,23 +121,9 @@ I love shipping models that actually move the needle.
   <img height="170" src="https://streak-stats.demolab.com?user=GOWTHAMMG347&theme=radical&hide_border=true" />
 </p>
 
-<!-- Activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOWTHAMMG347&theme=react-dark&hide_border=true&area=true" />
-</p>
-
 <!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GOWTHAMMG347&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<!-- ====== CONTRIB SNAKE (dark/light) ====== -->
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GOWTHAMMG347/GOWTHAMMG347/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/GOWTHAMMG347/GOWTHAMMG347/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 <!-- ====== CONTACT STRIP ====== -->
