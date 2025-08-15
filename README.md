@@ -45,7 +45,7 @@ I love shipping models that actually move the needle.
 <!-- ====== SKILLS ====== -->
 <h2 align="center">🚀 Skills & Tech</h2>
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:15px;">
+<div align="left" style="display:flex; flex-direction:column; align-items:center; gap:15px;">
   <img src="https://skillicons.dev/icons?i=numpy" height="50" />
   <img src="https://skillicons.dev/icons?i=matplotlib" height="50" />
   <img src="https://skillicons.dev/icons?i=pandas" height="50" />
